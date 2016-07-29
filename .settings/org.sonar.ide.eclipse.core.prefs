@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+extraProperties=sonar.host.url\=http\://sonar.debug.sdp.nd
+projectKey=com.nd.im\:log4j2-demo
+serverUrl=http\://sonar.sdp.nd
+version=2
